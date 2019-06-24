@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1560945283 source:/home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/main.cpp
+	"bus_manager.h"
+	"query.h"
+	"responses.h"
+
+1560942575 /home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/bus_manager.h
+	<vector>
+	<map>
+	"responses.h"
+
+1560942593 /home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/query.h
+	<string>
+	<iostream>
+	<vector>
+
+1560945274 /home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/responses.h
+	<iostream>
+
+1560938998 source:/home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/query.cpp
+	"query.h"
+
+1560939924 source:/home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/bus_manager.cpp
+	<string>
+	"bus_manager.h"
+
+1560945264 source:/home/ITRANSITION.CORP/a.luzgin/example/DecompositionProgram2/responses.cpp
+	"responses.h"
+	<string>
+
